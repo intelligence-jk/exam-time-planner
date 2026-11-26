@@ -1,4 +1,6 @@
-# exam-time-planner
+# KAIROS: Knowing All Important Revision, Organised by Slot
+
+Formerly `exam-time-planner`.
 
 Splits exam time across questions in proportion to their marks, with time for reading and for a final review.
 
