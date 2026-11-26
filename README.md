@@ -1,4 +1,4 @@
-# KAIROS: Knowing All Important Revision, Organised by Slot
+# KALENDS: the Roman first day of the month, where the word calendar comes from
 
 Formerly `exam-time-planner`.
 
